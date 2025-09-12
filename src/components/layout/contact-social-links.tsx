@@ -1,4 +1,4 @@
-import { Linkedin, Github, Dribbble } from 'lucide-react';
+import { Linkedin, Github} from 'lucide-react';
 import FooterSocialLink from './footer-social-link';
 import React, { useRef } from 'react';
 import { useGSAP } from '@gsap/react';
@@ -20,11 +20,6 @@ const links = [
     href: 'https://github.com/Stevensavarin',
     icon: Github,
   },
-  /*{
-    label: 'Dribbble',
-    href: '',
-    icon: Dribbble,
-  },*/
 ];
 
 /**

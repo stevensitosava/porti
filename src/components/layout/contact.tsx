@@ -65,7 +65,7 @@ const Contact = () => {
                 )}
                 data-title
               >
-                Let's make amazing ideas come true together!
+                Let&apos;s make amazing ideas come true together!
               </div>
               <p className={cn('section-desc', 'max-w-sm')} data-desc>
                 If you are looking for a partner for your next project or someone to boost your team, 
