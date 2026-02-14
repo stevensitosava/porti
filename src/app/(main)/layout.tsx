@@ -25,7 +25,7 @@ export const metadata: Metadata = {
   },
   description: siteConfig.description,
   keywords: ['portafolio', 'software development', 'Next.js', 'React', 'Tailwind', 'frontend', 'backend', 'python'],
-  authors: [{ name: 'Steven Savarin', url: 'https://stevensawarin.com/' }],
+  authors: [{ name: 'Steven Sawarin', url: 'https://stevensawarin.com/' }],
   openGraph: {
     title: siteConfig.name,
     description: siteConfig.description,

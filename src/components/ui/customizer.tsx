@@ -97,9 +97,8 @@ const Customizer = () => {
     }
   };
 
-  // Nueva función para abrir el CV
   const handleOpenCV = () => {
-    window.open('/cv.pdf', '_blank'); // Asegúrate de colocar cv.pdf en /public
+    window.open('/CV-STEVEN.pdf', '_blank');
   };
 
   return (

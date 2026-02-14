@@ -86,7 +86,7 @@ export default function Header() {
         </ol>
         <div className={cn('flex justify-end', 'md:w-36')}>
           <NavLink
-            className="flex gap-2 items-center"
+            className="flex gap-2 items-center cursor-pointer"
             renderContent={({ isActive }) => (
               <span
                 className={cn(
