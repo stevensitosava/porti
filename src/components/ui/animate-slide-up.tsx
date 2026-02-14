@@ -54,7 +54,7 @@ const AnimateSlideUp = ({
         currentLoop.tl.pause(); // Pause it until the initial animation completes
       }
 
-      // Initial animation for the first item
+      // Initial animation for the first item-
       initialTl.fromTo(
         itemsElements[0],
         { y: '100%' },
